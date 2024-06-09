@@ -1,3 +1,3 @@
 # Tools-Discordien
 SOON...
-'55%'
+`55%`
