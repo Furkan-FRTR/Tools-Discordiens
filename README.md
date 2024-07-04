@@ -62,7 +62,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez proposer une nouvelle 
 
 ## Remerciements
 
-Merci d'utiliser le **Tools Discordiens** ! Nous nous efforçons d'améliorer continuellement nos outils pour offrir une meilleure expérience utilisateur sur Discord. Restez à l'écoute pour les futures mises à jour !
+Merci d'utiliser le **Tools Discordiens** ! Nous nous efforçons d'améliorer continuellement nos Tools pour offrir une meilleure expérience utilisateur sur Discord. Restez à l'écoute pour les futures mises à jour !
 
 ## Contact
 
