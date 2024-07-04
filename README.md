@@ -51,7 +51,7 @@ Pour démarrer le Tools Discordiens, exécutez le fichier `start.py` à partir d
 
  `python start.py`
 
-ou vous poucez double cliquez sur le fichier start.py
+ou vous pouvez double cliquez sur le fichier start.py
 
 Le menu interactif vous guidera. 
 Suivez les instructions à l'écran pour chaque Tool.
