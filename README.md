@@ -69,3 +69,12 @@ Merci d'utiliser le **Tools Discordiens** ! Nous nous efforçons d'améliorer co
 Pour toute question ou assistance supplémentaire, n'hésitez pas à me contacter via :
 - **Discord** : \_\_\_furkan\_\_\_
 - **GitHub** : [Furkan-FRTR](https://github.com/Furkan-FRTR)
+
+- ## Remarque
+
+- Je ne suis en aucun cas responsable de vos actes.
+- Utilisez ces Tools de manière responsable et conformément aux conditions d'utilisation de Discord.
+- **Attention utiliser ces Tools peut rendre vos amis Discord jaloux de vos compétences *technologiques* !**
+
+## Licence
+Ce projet est sous licence MIT.
