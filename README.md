@@ -34,7 +34,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 1. **Clonez le dépôt** :
   ```
-  git clone https://github.com/Furkan-FRTR/Outils-Discordiens.git
+  git clone https://github.com/Furkan-FRTR/Tools-Discordiens.git
   cd Tools-Discordiens
   ```
 
