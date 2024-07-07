@@ -1,6 +1,6 @@
 # Tools Discordiens
 
-Bienvenue dans le projet **Tools Discordiens** ! Ce dépôt contient une collection de Tools développés en Python pour Discord
+Bienvenue dans le projet **Tools Discordiens** !Un Tools développés en Python pour Discord
 
 ## Tools
 
