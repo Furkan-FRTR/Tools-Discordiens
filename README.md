@@ -67,7 +67,6 @@ Merci d'utiliser le **Tools Discordiens** ! Nous nous efforçons d'améliorer co
 ## Contact
 
 Pour toute question ou assistance supplémentaire, n'hésitez pas à me contacter via :
-- **Discord** : \_\_\_furkan\_\_\_
 - **GitHub** : [Furkan-FRTR](https://github.com/Furkan-FRTR)
 
 - ## Remarque
